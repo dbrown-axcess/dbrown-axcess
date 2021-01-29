@@ -2,6 +2,6 @@
 
 - Test in prod
 - Always carry your sprint item
-- Tag Juan in every PR
+- Tag The Brichler in every PR
 - :shipit:
 
